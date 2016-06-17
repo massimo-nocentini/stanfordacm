@@ -22,3 +22,6 @@ Release
 x64
 .vs
 *.exe
+
+contents.tex
+*.pdf
